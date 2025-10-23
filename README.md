@@ -1,6 +1,5 @@
-# bobobox_assignment
-Web-scrap code for bobobox internship take-home assignment.
-This code will output a .json file (output.json) which contains the scrapped data from books.toscrape.com. A sample of the output data is provided in this repo in `sample_output/output.json`
+# web_scrape
+This repo contains code that will scrape html data from book.toscrape.com using scrapy in python. This code will output a .json file (output.json) which contains the scrapped data. A sample of the output data is provided in this repo in `sample_output/output.json`
 
 # How to run in local
 1. Install and open Docker Desktop in you local machine, minimize it and let it run in the background.
